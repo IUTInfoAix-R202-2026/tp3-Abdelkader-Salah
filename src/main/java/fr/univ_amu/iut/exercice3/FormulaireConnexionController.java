@@ -57,6 +57,13 @@ public class FormulaireConnexionController {
     //      champMotDePasse.editableProperty().bind(
     //          Bindings.greaterThanOrEqual(champIdentifiant.textProperty().length(), 6));
     //
+<<<<<<< Updated upstream
+=======
+
+    champMotDePasse.editableProperty()
+
+
+>>>>>>> Stashed changes
     // 2. Le bouton Annuler est désactivé si les deux champs sont vides :
     //      boutonAnnuler.disableProperty().bind(
     //          Bindings.and(
